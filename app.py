@@ -1,2 +1,1 @@
-Hello 
-hi
+print("Hello Imran")
